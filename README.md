@@ -40,7 +40,7 @@ Streamlit will open:
 ```bash
 http://localhost:8501
 ```
-#🖼 3. How to Use
+# 🖼 3. How to Use
 1. Upload an image
 2. Click “Process Color (SIGGRAPH17)”
 3. Click “Enhance”
