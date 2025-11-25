@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - Pillow — image handling
 - NumPy — array operations
 
-  # Ensure folder structure:
+# Ensure folder structure:
 ```bash
 colorizers/
     siggraph17.py
